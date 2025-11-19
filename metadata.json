@@ -1,0 +1,8 @@
+{
+  "name": "Yodha: E-Cycle Assistant",
+  "description": "An offline-capable AI assistant for e-cycle riders, optimized for smartwatch interfaces with GPS, speed tracking, and voice interaction.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
